@@ -1,0 +1,164 @@
+date,title,description,sentiment
+2025-03-25,Apple says it’ll use Apple Maps Look Around photos to train AI,"Sometime earlier this month, Apple updated a section of its website that discloses how it collects and uses imagery for Apple Maps’ Look Around feature, which is similar to Google Maps’ Street View, as spotted by 9to5Mac. A newly added paragraph reveals that,…",0.0
+2025-03-18,Apple has revealed a Passwords app vulnerability that lasted for months,"Apple fixed a bug in the iOS 18.2 Passwords app that, for three months starting with the release of iOS 18, made users vulnerable to phishing attacks, according to an Apple security content update spotted by 9to5Mac. Here’s how Apple describes the bug and its…",-0.5106
+2025-03-20,Apple TV Plus is reportedly losing $1 billion per year,"Apple TV Plus is losing more than $1 billion every year despite reaching 45 million subscribers in 2024, according to a report from The Information. It’s reportedly the only Apple subscription that isn’t generating a profit. As part of an effort to take “a ha…",-0.4389
+2025-04-02,Apple stumbles with latest AirPods Max firmware,"Last week, Apple announced that lossless audio and ultra low latency would be coming to the AirPods Max with USB-C. It was a pleasant surprise for owners of Apple’s over-ear headphones, which have fallen behind the AirPods Pro in recent years when it comes to…",0.2023
+2025-04-03,Apple has its biggest stock drop in five years because of Trump’s tariffs,"Shares of Apple, Amazon, and other tech stocks are getting walloped on Thursday as the markets digest the impact of President Donald Trump’s new round of tariffs announced on Wednesday evening. Shares of Apple were down about 9 percent on Thursday morning, wh…",0.4588
+2025-04-10,Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs,"Apple airshipped 600 tons of iPhones to the US from India before new US tariffs were scheduled to take effect, as reported by Reuters and The Times of India. Meanwhile, Nikkei Asia reports Apple, Dell, Microsoft, and Lenovo were pressing to ship as many “prem…",0.0
+2025-03-24,Apple’s AirPods Max with USB-C will soon support lossless audio,"Apple is bringing higher-fidelity audio to its AirPods Max headphones in April, the company announced today. When the $549 headphones switched to a USB-C connector last year, they lost support for wired audio playback — but it seems like Apple is about to rec…",0.6486
+2025-03-29,Apple TV Plus is on a hot streak,"Hi, friends! Welcome to Installer No. 77, your guide to the best and Verge-iest stuff in the world. (If youâre new here, welcome, donât forget to make your Venmo private, and also you can read all the old editions at the Installer homepage.) This week, Iâ…",0.9134
+2025-04-03,Apple has its biggest stock drop in five years because of Trump’s tariffs,"Shares of Apple, Amazon and other tech stocks are getting walloped on Thursday as the markets digest the impact of Trump’s new round of tariffs announced on Wednesday evening. Shares of Apple were down about 9 percent on Thursday morning, which would mark the…",0.4588
+2025-04-08,You can grab three months of Apple TV Plus for $2.99 a month right now,"Curious what all the fuss over shows like Severance and The Studio is about? If you’re interested in streaming either, new and eligible returning subscribers can sign up for Apple TV Plus through April 24th for just $2.99 a month for the first three months. A…",0.7579
+2025-03-24,Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here,"Apple is getting closer to launching Priority Notifications, a feature that uses AI to automatically detect important iPhone notifications and makes them more visible on your lockscreen. The feature is included in the iOS 18.4 release candidate rolled out on …",0.2023
+2025-04-14,Apple’s complicated plan to improve its AI while protecting privacy,"Apple says it’s found a way to make its AI models better without training on its users’ data or even copying it from their iPhones and Macs. In a blog post first reported on by Bloomberg, the company outlined its plans to have devices compare a synthetic data…",0.7003
+2025-04-02,Visa Wants to Take Over $20 Billion Apple Card Business,"The company wants to take over processing of payments for Apple's credit card, and has reportedly offered $100 million to replace Mastercard.",0.3818
+2025-03-21,Opening iOS is good news for smartwatches,"Look at every smartwatch buying guide on the internet. I guarantee they’re either divided into separate guides for iOS and Android, like The Verge’s, or include categories like “Best for iPhone owners” or “Best for Android.” (Also, like The Verge’s fitness tr…",0.91
+2025-03-24,20 Questions We Have After Severance Season 2,"From Cold Harbor and goats, to innies, dopplegangers, and marching bands, let's dive deep into the Apple TV+ show.",0.0
+2025-03-24,"Severance Season 3 Might Be Something Totally Different, but Probably Not",Creator Dan Erickson teased the massive fallout from the season two finale of the Apple TV+ show.,-0.4215
+2025-04-07,"The Next iPhone Could Be Pricier, Tariffs or Not","Apple may eat some cost of Trump's tariffs, but the iPhone maker has every reason to raise prices in 2025.",0.0
+2025-04-07,Alexander Skarsgård Explains How True Blood Prepared Him for Murderbot,Apple TV+'s sci-fi comedy series based on the book series from Martha Wells debuts May 16.,0.802
+2025-03-19,8 TV Shows and Movies to Watch After You Finish Severance,"Hopefully it won't be another long gap between seasons for the Apple TV+ series, but you're definitely going to have some time to fill.",0.6597
+2025-04-12,"Mythic Quest is Canceled and Getting a New, Final Ending","Apple is closing the book on one of its longest-running shows, but at least it's not going out on an unfinished cliffhanger.",0.0
+2025-04-11,Google’s Pixel Watch 4 Could Ditch the Pins for Wireless Charging,"Other than some questionable addition of buttons, these annual updates seem to be as menial as the new Apple Watch each year.",-0.296
+2025-04-04,Amazon Forgot to Take the 2024 MacBook Air Off Sale After Their Big Spring Event,"The big sale is over, but the 13-inch M3-powered Apple laptop is still at its record-low price of just $999.",0.09
+2025-03-28,Yale’s new smart lock can match your Google Nest doorbell,"Following the news that Google is discontinuing its Nest x Yale Lock, Yale has announced a new smart lock that fits into the Google Home ecosystem and is designed to complement Google’s Nest video doorbells. However, thanks to Matter-over-Thread compatibility…",0.8074
+2025-03-30,The 50 best Amazon Big Spring Sale deals under $100,"From the Apple Watch Series 10 and Samsung’s new Galaxy S25 to the top-of-the-line Roborock S8 MaxV Ultra, Amazon’s Big Spring Sale has brought steep discounts on some of our favorite gadgets. There’s just one problem: a large chunk of them will set you back …",0.7351
+2025-03-20,"The beautiful, retro tech of two theatrical sound designers","When asked what they do for work, creative couple Jessie Char and Maxwell Neely-Cohen should probably just say âyes.â True professional multihyphenates, Charâs gig history includes stints as a UI/UX designer, conference organizer, concert cellist, and A…",0.8625
+2025-03-27,iPhone users can now set WhatsApp as their default calling and texting app,"You can now choose WhatsApp as your iPhone’s default app for calls and text messages, as noted by WABetaInfo. After updating WhatsApp to version 25.8.74, you’ll see the app appear as an option in your Messaging and Calling default app settings. Apple first an…",0.0
+2025-04-08,"Trump believes iPhones can be made in the US, says White House","With time continuing to tick down until President Trump’s higher tariffs take effect after midnight, White House press secretary Karoline Leavitt doubled down on the idea that products like iPhones could realistically shift to US manufacturing, claiming that …",0.3612
+2025-04-09,The best AirPods to buy,"Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work bes…",0.7964
+2025-04-04,Trump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says,"President Donald Trump’s additional 75 day delay to TikTok’s sale-or-ban deadline leaves service providers like Apple, Google, and Oracle on shaky ground, and, according to one influential Democrat, is straight-up “against the law.” After Trump announced the …",0.5859
+2025-03-31,John Boyega Reflects on Star Wars Fandom’s Problem With Black Heroes,"Speaking during an interview for the Apple TV+ documentary Number One on the Call Sheet: Black Leading Men in Hollywood, the Star Wars sequels star discussed people's reactions to characters like Finn being positioned beyond supporting roles.",-0.2263
+2025-03-20,Apple Facing False Advertising Lawsuit Over Apple Intelligence Delay,"Apple has been accused of false advertising and unfair competition for delaying the Siri Apple Intelligence features that it promoted when launching iOS 18 and the iPhone 16 models, reports Axios.
+
+
+
+
+
+The suit targets Apple ads that showed off ‌Siri‌ feature…",0.128
+2025-04-14,Here's How Apple is Working to Improve Apple Intelligence,"With its uncompromising focus on user privacy, Apple has faced challenges collecting enough data to train the large language models that power Apple Intelligence features and that will ultimately improve Siri.
+
+
+
+
+
+To improve ‌Apple Intelligence‌, Apple has t…",0.9349
+2025-03-20,"Ditch Your Apple Watch, The Galaxy Watch Ultra Is Now 50% Off on Samsung’s Store",Nothing to trade in? Samsung's also offering $230 of instant credit and phenomenal deals on accessories when you buy the brand-new Galaxy Watch Ultra.,0.3818
+2025-03-17,"Beats Studio Buds Now Just $99, the Best Apple Alternative to AirPods on a Budget",Save 33% on the Beats Studio Buds active noise cancelling earphones for a limited time.,0.8126
+2025-03-29,"The New Apple Watch Series 10 Has Never Been So Cheap, Amazon Shows No Mercy","Only six months after its release, Apple's newest smartwatch has established itself as one of its best ever, and $329 is its best price ever.",0.8507
+2025-03-31,"TikTok, tariffs, and trials: everything happening in tech’s chaotic April","As TikTokâs April 5th sell-by date approaches, Americans are back to where they stood before the original January deadline: watching anxiously to see if a major social media app gets banned. But that’s far from the only big event we’ll see over the coming m…",-0.4404
+2025-04-14,"Before Prices Rise Due to Tariffs, Amazon Is Drastically Slashing the Price of Apple AirTags","AirTags consistently top Amazon's Electronics bestseller list, and it's easy to see why.",0.5106
+2025-04-08,The 256GB 10th Gen Apple iPad Just Hit a Price We Never Thought Possible,The unsung hero of the tablet world is just a buck above its all-time lowest price while this 30% off Amazon deal is still running.,0.4019
+2025-03-21,Trump’s confusing crusade against Big Tech,"President Trump wanted to ban TikTok. Now he wants to save TikTok. There might even be a plan to save TikTok, though right now it feels more like a âconcepts of a planâ situation. Meanwhile, the Trump administration continues to press hard on regulating B…",0.5095
+2025-03-16,The iPhone 17 Air makes other models look chunky in new leaked dummy shots,"A set of iPhone 17 dummies appeared last night in a new leak from Sonny Dickson, who has a long history of reliably leaking the nonfunctional versions of iPhones that case and accessory makers use to prepare for the next year’s crop of handsets. The images lo…",-0.5719
+2025-04-09,Apple Shares Emergency SOS Apple Watch Success Story,"Apple today shared a minute-long video promoting the Emergency SOS feature on the Apple Watch, highlighting the rescue of Australian man Rick Shearman, who was swept out to sea last July.
+
+
+
+
+
+
+Shearman was swimming in Byron Bay when rough seas pushed him aw…",0.836
+2025-04-11,Apple to Release Delayed Apple Intelligence ‌Siri‌ Features This Fall,"Apple plans to release its delayed Apple Intelligence Siri features in the fall, according to a new report by The New York Times.
+
+
+
+
+
+In early March, Apple said that it was going to take longer than expected to roll out the more personalized ‌Siri‌ experienc…",0.5267
+2025-04-15,Apple Celebrating Earth Day With Apple Watch Activity Challenge,"Apple will launch its next Apple Watch activity challenge on Tuesday, April 22 in celebration of Earth Day.
+
+
+
+
+
+To complete the challenge, Apple Watch owners will be required to complete a workout that lasts for 30 minutes or longer, with the activity record…",0.6808
+2025-03-21,"Rare Apple-1 Computer Sells for $375,000","A rare, operational Apple-1 Computer was recently put up for auction, and it ended up selling for $375,000. The Apple-1 was the first computer sold by Apple co-founders Steve Jobs and Steve Wozniak, and so few remain that they fetch high prices at auction.
+
+
+…",0.0
+2025-03-21,Apple Sued For False Advertising Over Apple Intelligence,"Apple has been hit with a federal lawsuit claiming that the company's promotion of now-delayed Apple Intelligence features constituted false advertising and unfair competition. From a report: The suit, filed Wednesday in U.S. District Court in San Jose, seeks…",0.296
+2025-03-18,Apple Pay Now Available in Puerto Rico,"Apple Pay today expanded to Puerto Rico, which means iPhone, iPad, and Mac users living in the territory are now able to use ‌Apple Pay‌ for purchases in retail stores and online, even without a mainland credit or debit card. 
+
+
+
+
+
+Though Puerto Rico is a U.S…",-0.4559
+2025-04-03,Apple Sending WWDC 2025 Invites to Special Event Lottery Winners,"Apple plans to hold a WWDC keynote viewing party for select students and developers on Monday, June 9, with a limited number of invites available for an in-person Apple Park event. Apple accepted applications for attendance until yesterday, and the company is…",0.8402
+2025-04-08,The kid-friendly Fitbit Ace has returned to its best price to date,"If you’re struggling to get your kids off their phones and outside, the Fitbit Ace LTE is packed with a number of features that are designed to help kids get out and exercise while keeping unwanted distractions to a minimum. And right now, it’s matching its a…",0.3612
+2025-03-26,"Amazon Has Cut Its Margin on The Mac Mini M4, Now at a Record Low Price","Save yourself $70 on the small but (very) powerful Mac Mini, built with Apple's M4 chipset.",0.6694
+2025-03-16,SwitchBot’s next smart hub comes with a control knob,"Smart home company SwitchBot is preparing a new Matter-enabled smart hub called the SwitchBot Hub 3, according to a registration with the Connectivity Standards Alliance (CSA) that HomeKitNews spotted. It has a display like the $70 Hub 2, but adds physical co…",0.6486
+2025-03-31,New Apple TV This Year Likely to Support Wi-Fi 7,"It has been rumored that a new Apple TV will launch later this year, and it might support the faster Wi-Fi 7 standard.
+
+
+
+
+
+All four iPhone 17 models coming later this year will be equipped with an Apple-designed Wi-Fi 7 chip, according to Apple supply chain …",0.6597
+2025-04-08,Apple Arcade Adding Five New Games Next Month,"Apple today announced that five additional games will be added to the Apple Arcade library at the beginning of next month.
+
+
+
+
+
+Accessible through the App Store, Apple Arcade is a subscription-based service that provides access to hundreds of games across the…",0.0
+2025-03-25,Apple Announces WWDC 2025 Event for June 9 to 13,"Apple today announced that its 36th annual Worldwide Developers Conference will begin on Monday, June 9, and end on Friday, June 13. As with WWDC events since 2020, WWDC 2025 will primarily be an online event that is open to all developers, with no associated…",-0.296
+2025-03-18,Apple Stops Signing iOS 18.3.1,"Apple today stopped signing iOS 18.3.1, so iPhone users who have upgraded to iOS 18.3.2 are no longer able to downgrade to the prior version of iOS 18. Apple released iOS 18.3.2 on March 10.
+
+
+
+
+
+It is not unusual for Apple to stop signing older versions of i…",-0.7096
+2025-04-07,Apple Stops Signing iOS 18.3.2,"Apple today stopped signing iOS 18.3.2, a week after releasing the iOS 18.4 update. Now that iOS 18.3.2 is not being signed, iPhone users who have upgraded to iOS 18.4 are not able to downgrade to a version of iOS 18.3.
+
+
+
+
+
+It is typical for Apple to stop si…",-0.5719
+2025-04-09,Aqara adds support for 50 new Matter device types,"Aqara is adding support for over 50 new Matter device types, making it one of the most comprehensive smart home platforms in terms of Matter support, alongside Samsung SmartThings and Home Assistant.  The company is also bringing advanced bridging to all its …",0.9283
+2025-03-31,"Apple Releases visionOS 2.4 With Apple Intelligence, Spatial Gallery and New iPhone Integration","Apple today released visionOS 2.4, the fourth update to the visionOS 2 operating system that came out in September. visionOS 2.4 comes two months after the launch of visionOS 2.3.
+
+
+
+
+
+visionOS 2.4 can be downloaded on all Vision Pro headsets by navigating to…",0.6249
+2025-03-25,Apple Music Classical Updated With Three New Features,"Apple Music Classical was updated today with time-synced listening guides, curated stations, and personalized recommendations on the Home tab of the app.
+
+
+
+
+
+""Dive deeper with time-synced listening guides for 150+ popular works, enjoy nonstop music with cura…",0.7184
+2025-04-11,The Apple Maps web client beta now runs on Android phone browsers,"Apple Maps may be the next Apple service to work on Android, at least partially. The web client now works on mobile browsers.",0.0
+2025-04-15,Apple Stores to Offer 10% Off Accessories When You Recycle Electronics,"Ahead of Earth Day on April 22, Apple plans to launch an in-store promotion that offers customers 10% off select Apple accessories when they bring in old electronics for free recycling, according to Bloomberg's Mark Gurman.
+
+
+
+
+
+Apple has long offered to recy…",0.5106
+2025-04-03,CNBC+ Now Available on Apple TV,"The business news network CNBC on Wednesday announced that its CNBC+ streaming service has expanded to the Apple TV and Roku devices.
+
+
+
+
+
+CNBC+ is now available through the CNBC app on all Apple TV HD and Apple TV 4K models, providing subscribers with a live…",0.0
+2025-03-26,"Apple Is Going Nuts, This 2024 MacBook Air Is Down to a Record-Low Price on Amazon","The 13-Inch model of one of Apple's best laptops is back to its all-time-lowest price thanks to this Amazon ""Big Spring"" sale.",0.802
+2025-03-27,"Forget the Apple Watch, The Garmin epix Gen 2 Is at its All-Time Lowest Price on Amazon",Now's your chance to grab a premium $900 sports and adventure smartwatch with advanced GPS and free training apps for just $419.,0.7003
+2025-04-02,Apple Seeds First Beta of macOS Sequoia 15.5,"Apple today seeded the first beta of an upcoming macOS Sequoia 15.4 update to developers for testing purposes, with the software coming two days after Apple released ‌macOS Sequoia‌ 15.4.
+
+
+
+
+
+Registered developers can opt-in to the ‌macOS Sequoia‌ beta throu…",0.0
+2025-03-29,"Woot Discounts Apple Pencil Pro to New Record Low $79.99 Price, USB-C Apple Pencil to $49.99","Woot today has introduced a pair of solid discounts on the Apple Pencil Pro and USB-C Apple Pencil in New (Open Box) condition, providing new all-time low discounts on each model. 
+
+
+
+Note: MacRumors is an affiliate partner with Woot. When you click a link an…",0.7003

@@ -3,7 +3,9 @@ import os
 import argparse
 from datetime import datetime
 
-NEWS_API_KEY = os.getenv("NEWS_API_KEY")  # coloca no teu .env ou exporta no shell
+NEWS_API_KEY = os.getenv("NEWS_API_KEY") 
+
+# ----------------------------------------------------------------------------------------------------- #
 
 def fetch_news(query, from_date, to_date, language="en"):
     url = "https://newsapi.org/v2/everything"
@@ -26,6 +28,8 @@ def fetch_news(query, from_date, to_date, language="en"):
 
     return data["articles"]
 
+# ----------------------------------------------------------------------------------------------------- #
+
 def save_news(articles, company, output_dir="data/raw"):
     os.makedirs(output_dir, exist_ok=True)
     today = datetime.today().strftime("%Y%m%d")
@@ -38,6 +42,8 @@ def save_news(articles, company, output_dir="data/raw"):
 
     print(f"[✓] Notícias guardadas em {path}")
     return path
+
+# ----------------------------------------------------------------------------------------------------- #
 
 def main():
     parser = argparse.ArgumentParser()

@@ -12,6 +12,7 @@ def plot_sentiment(path="data/processed/sentiment_apple.csv"):
     plt.grid(True)
     plt.tight_layout()
     plt.show()
+    plt.savefig("./sentiment_plot.png")  
 
 if __name__ == "__main__":
     plot_sentiment()

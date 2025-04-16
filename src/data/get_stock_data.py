@@ -4,6 +4,7 @@ import os
 from datetime import datetime, timedelta
 import argparse
 
+# ----------------------------------------------------------------------------------------------------- #
 
 def fetch_stock_data(ticker: str, start: str = None, end: str = None, days: int = None) -> pd.DataFrame:
     if days:
@@ -16,30 +17,33 @@ def fetch_stock_data(ticker: str, start: str = None, end: str = None, days: int 
     df = yf.download(ticker, start=start_date.strftime("%Y-%m-%d"), end=end_date.strftime("%Y-%m-%d"))
     return df
 
+# ----------------------------------------------------------------------------------------------------- #
 
-def save_to_csv(df: pd.DataFrame, ticker: str, output_dir: str = "data/raw") -> str:
-    os.makedirs(output_dir, exist_ok=True)
-    today = datetime.today().strftime("%Y%m%d")
-    filename = f"{ticker.lower()}_{today}.csv"
-    path = os.path.join(output_dir, filename)
-    df.to_csv(path)
-    print(f"[✓] Dados guardados em: {path}")
-    return path
+def save_to_csv(df, ticker, folder="data/raw"):
+    os.makedirs(folder, exist_ok=True)
+    filename = f"{ticker.lower()}_20250416.csv"
+    filepath = os.path.join(folder, filename)
+    
+    df.to_csv(filepath, index=False)
+    
+    print(f"[✓] Data saved in: {filepath}")
+    return filepath
 
+# ----------------------------------------------------------------------------------------------------- #
 
 def main():
     parser = argparse.ArgumentParser(description="Fetch stock data from Yahoo Finance")
-    parser.add_argument("--ticker", type=str, required=True, help="Ticker da ação (ex: AAPL, TSLA)")
-    parser.add_argument("--start", type=str, help="Data de início (formato YYYY-MM-DD)")
-    parser.add_argument("--end", type=str, help="Data de fim (formato YYYY-MM-DD)")
-    parser.add_argument("--days", type=int, help="Número de dias mais recentes (ignora start/end)")
+    parser.add_argument("--ticker", type=str, required=True, help="Stock ticker (e.g., AAPL, TSLA)")
+    parser.add_argument("--start", type=str, help="Start date (format YYYY-MM-DD)")
+    parser.add_argument("--end", type=str, help="End date (format YYYY-MM-DD)")
+    parser.add_argument("--days", type=int, help="Number of most recent days (overrides start/end)")
 
     args = parser.parse_args()
 
     df = fetch_stock_data(args.ticker, args.start, args.end, args.days)
     
     if df.empty:
-        print("[!] Nenhum dado encontrado para esse intervalo.")
+        print("[!] No data found for this range.")
     else:
         save_to_csv(df, args.ticker)
 
