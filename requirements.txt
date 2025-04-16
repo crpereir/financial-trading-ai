@@ -1,0 +1,11 @@
+yfinance
+pandas
+textblob
+vaderSentiment
+scikit-learn
+matplotlib
+plotly
+streamlit
+dash
+newsapi-python
+apache-airflow==2.9.1
